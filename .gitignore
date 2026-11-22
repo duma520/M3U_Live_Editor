@@ -1,0 +1,13 @@
+# 运行时产物
+data/
+backups/
+build_output/
+__pycache__/
+*.pyc
+
+# 密钥
+.env
+
+# 日志
+debug.txt
+*.log
