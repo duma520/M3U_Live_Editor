@@ -11,3 +11,15 @@ __pycache__/
 # 日志
 debug.txt
 *.log
+
+# ---- 数据库文件（绝不入库）----
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.db3
+Thumbs.db
